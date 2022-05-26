@@ -10,7 +10,6 @@
         $meuble1='A';
         $meuble2='B';
         $meuble3='C';
-        echo ""
         if ($montant==0) {
             echo "Quel est votre budget d'achat ?"; 
         }
